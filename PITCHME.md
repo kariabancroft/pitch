@@ -31,11 +31,6 @@ JSX is a preprocessor most often used within React. It looks very similar to HTM
 @title[JSX]
 #### JSX
 
-<br>
-
-+++
-@title[Block: JSX Snippets]
-
 ```javascript
 <h1>Hello, World!</h1>
 
@@ -69,5 +64,3 @@ JSX is a preprocessor most often used within React. It looks very similar to HTM
 @[5-11](Constructor options)
 @[13-15](Render function)
 @[18](Render the component class created above)
-
----
